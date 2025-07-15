@@ -1,6 +1,8 @@
 # ML-Comparison-Dashboard
 This project is a Python Streamlit dashboard designed to compare the performance of machine learning classification models. It can use Logistic Regression, Random Forest, and Support Vector Machine on user-uploaded datasets. A user can select a target column, choose to encode categorical features, and scale inputs. The results are visualized on Plotly charts and the accuracy and precision are displayed.
 
+[Live Demo](https://ml-comparison-dashboard.streamlit.app/)
+
 ## Features
 - Dynamic Dataset Upload - Upload any CSV dataset and select a target column for classification.
 - Model Selection - Choose which model(s) to use with customizable test sizes
