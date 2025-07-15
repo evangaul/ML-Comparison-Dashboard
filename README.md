@@ -26,9 +26,10 @@ This project is a Python Streamlit dashboard designed to compare the performance
 3. View results
 
 ## Example: Stock Price Prediction
-generate_stock_data.py is a sample
 Use generate_stock_data.py to get the historical data of AAPL, clean the data, add more feature columns, and put it into a csv.
+
 Upload the CSV to the dashboard and select 'Price Up/Down' as the target column and select your models.
+
 View the results across the different models 
 
 ## About
